@@ -10,4 +10,4 @@ Currently learning and building projects related to:
 
 ## Contact
 Email: aviralshirgupe@gmail.com  
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/aviral-shirgupe-162335354
