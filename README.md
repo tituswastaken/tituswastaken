@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Aviral S.
-- 👀 I’m interested in python and its uses...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - aviralshirgupe@gmail.com
+Hi, I'm Aviral Shirgupe
+Computer Science student interested in software development, web technologies, automation systems, and problem solving.
+Currently learning and building projects related to:
+- Full Stack Web Development
+- Data Structures and Algorithms
+- Automation Systems
+- AI-based Applications
+- System Design
+-----
 
-<!---
-tituswastaken/tituswastaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+Email: aviralshirgupe@gmail.com  
+LinkedIn: linkedin.com/in/yourprofile
